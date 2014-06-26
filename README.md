@@ -1,7 +1,7 @@
 sand-box
 ========
 
-Sandbox Repository
+SandBox Repository
 
   Creator: JPING97 
   
